@@ -13,5 +13,5 @@ router.use('/',require('./patient_report'));
 // set route path for /patients
 router.use('/patients', require('./users_patient'));
 
-// exporting routers
+// exporting router
 module.exports = router;
