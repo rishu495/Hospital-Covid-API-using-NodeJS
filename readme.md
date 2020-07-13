@@ -40,7 +40,7 @@
 
 8. Text message is sent only on the number which is verified by TWILIO.
 
-9. So, make sure when doctor registers patient at very first time, doctor must verify patient's contact on (https://www.twilio.com/     console/phone-numbers/verified) and only then register patient with given contact.
+9. So, make sure when doctor registers patient at very first time, doctor must verify patient's contact on (https://www.twilio.com/console/phone-numbers/verified) and only then register patient with given contact.
 
 10. If doctor not verifies patient contact on given website, then all things work fine, only text message not sent on patient's contact.
 
