@@ -38,7 +38,7 @@
 
 7. Visit www.twilio.com/console for generating (ACCOUNT_SID, FROM and AUTH_TOKEN) and put it directly in the .env_sample file
 
-8. Text message is sent only on the number which is verified by TWILIO.
+8. Text message is sent only on the number which is verified by TWILIO, it is trial account so it has limitations you have to purchase paid services for all stuffs.
 
 9. So, make sure when doctor registers patient at very first time, doctor must verify patient's contact on (https://www.twilio.com/console/phone-numbers/verified) and only then register patient with given contact.
 
